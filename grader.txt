@@ -1,0 +1,3 @@
+Name: Qiu Yuan Lim	login: cs61b-jk
+
+If you use the method "remove' on the sentinel, the basis of the linked list will be gone. There will be no way to tell the front and the back of the list.
